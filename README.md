@@ -1,6 +1,4 @@
-Here is a README file for your GitHub page based on your resume:
 
----
 
 # Jerry Cheng's GitHub Profile
 
@@ -65,5 +63,3 @@ Developed a novel lightweight chassis design for a 2DOF unicycle robot using gen
 - **GitHub:** [thejerrycheng](https://github.com/thejerrycheng)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
----

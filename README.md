@@ -1,7 +1,7 @@
 # **Jerry (Qilong) Cheng**
 
 I build intelligent robotic systems that unify **perception, locomotion, and manipulation**.
-My work spans **reinforcement learning**, **humanoid & exoskeleton control**, and **robot/mechatronic design** (QDD actuators, differential drives, 6-DOF cinema arms).
+My work spans **reinforcement learning**, **humanoid & exoskeleton control**, and **robot/mechatronic design** (FOC actuators, differential drives, 6-DOF cinema arms).
 Currently a **Ph.D. student in Robotics at NYU**.
 
 ---
@@ -31,7 +31,7 @@ Across labs, my focus has been consistent:
   Multimodal sensing (vision, tactile, proprioception), monocular depth, and certifiable calibration pipelines.
 
 * **Robot & actuator design**
-  QDD FOC actuators, differential wrist mechanisms, lightweight cinema robot arms, and hardware–software co-design.
+  FOC actuators, differential wrist mechanisms, lightweight cinema robot arms, and hardware–software co-design.
 
 ---
 

@@ -81,8 +81,8 @@ I engineer generalized, highly articulate robots for the home. My approach is ve
 ### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejerrycheng&show_icons=true&theme=transparent&hide_border=true&title_color=FF9500&icon_color=FF9500" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejerrycheng&layout=compact&theme=transparent&hide_border=true&title_color=FF9500" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thejerrycheng&show_icons=true&theme=transparent&hide_border=true&title_color=FF9500&icon_color=FF9500" width="48%" alt="Jerry's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejerrycheng&layout=compact&theme=transparent&hide_border=true&title_color=FF9500" width="48%" alt="Jerry's Top Languages" />
 </div>
 
 <p align="center">

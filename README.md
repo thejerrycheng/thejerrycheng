@@ -78,12 +78,6 @@ I engineer generalized, highly articulate robots for the home. My approach is ve
 
 ---
 
-### 📈 GitHub Activity
-
-![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejerrycheng&show_icons=true&theme=transparent&hide_border=true&title_color=FF9500&icon_color=FF9500)
-
-![Jerry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejerrycheng&layout=compact&theme=transparent&hide_border=true&title_color=FF9500)
-
 <p align="center">
   <i>"Those who are truly serious about software should design their own hardware."</i> ☕<br>
   <a href="https://calendly.com/jerrychengh990427/coffee-chat-with-jerry-cheng"><b>Schedule a Coffee Chat</b></a>

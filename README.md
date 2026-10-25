@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://thejerrycheng.github.io/"><img src="assets/banner.svg?v=3" alt="Jerry (Qilong) Cheng: Robotics Ph.D. candidate at the University of Toronto, building personal robots for every home" width="100%"></a>
+<a href="https://thejerrycheng.github.io/"><img src="assets/hero.svg" alt="Jerry (Qilong) Cheng: Robotics Ph.D. candidate at the University of Toronto, building personal robots for every home" width="100%"></a>
 
 <a href="https://thejerrycheng.github.io/"><img src="https://img.shields.io/badge/Website-FF9500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://x.com/thejerrycheng"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>

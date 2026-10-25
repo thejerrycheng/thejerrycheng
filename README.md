@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://thejerrycheng.github.io/"><img src="assets/banner.svg" alt="Jerry (Qilong) Cheng: Robotics Ph.D. candidate at the University of Toronto, building personal robots for every home" width="100%"></a>
+<a href="https://thejerrycheng.github.io/"><img src="assets/banner.svg?v=3" alt="Jerry (Qilong) Cheng: Robotics Ph.D. candidate at the University of Toronto, building personal robots for every home" width="100%"></a>
 
 <a href="https://thejerrycheng.github.io/"><img src="https://img.shields.io/badge/Website-FF9500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://x.com/thejerrycheng"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
@@ -41,12 +41,12 @@ I want a capable personal robot in **everyone's home**, and I build the whole st
 
 <table>
 <tr>
-<td valign="top"><a href="https://thejerrycheng.github.io/iris.html"><img src="assets/iris.jpg" width="300" alt="IRIS"></a><br><b>🎥&nbsp;IRIS</b>&nbsp;·&nbsp;<i>CRV&nbsp;2026&nbsp;Oral</i><br><sub>3D-printed&nbsp;cinema&nbsp;arm,&nbsp;learned&nbsp;camera&nbsp;moves</sub></td>
-<td valign="top"><a href="https://thejerrycheng.github.io/rwhe_calibration.html"><img src="assets/handeye.jpg" width="300" alt="Certifiable hand-eye calibration"></a><br><b>📐&nbsp;Hand-eye&nbsp;calibration</b>&nbsp;·&nbsp;<i>IJRR&nbsp;2025</i><br><sub>Certifiably&nbsp;correct&nbsp;robot-world&nbsp;+&nbsp;hand-eye</sub></td>
-<td valign="top"><a href="https://thejerrycheng.github.io/radar_camera.html"><img src="assets/radarcam.jpg" width="300" alt="Radar-camera calibration"></a><br><b>📡&nbsp;Radar&nbsp;↔&nbsp;camera</b>&nbsp;·&nbsp;<i>T-RO&nbsp;2022</i><br><sub>Target-free&nbsp;spatiotemporal&nbsp;calibration</sub></td>
-<td valign="top"><a href="https://thejerrycheng.github.io/radar_radar.html"><img src="assets/radarradar.jpg" width="300" alt="Radar-radar calibration"></a><br><b>📡&nbsp;Radar&nbsp;↔&nbsp;radar</b>&nbsp;·&nbsp;<i>AIM&nbsp;2023</i><br><sub>Extrinsics&nbsp;from&nbsp;ego-velocity,&nbsp;no&nbsp;targets</sub></td>
-<td valign="top"><a href="https://thejerrycheng.github.io/aerohaptix.html"><img src="assets/aerohaptix.jpg" width="300" alt="AeroHaptix"></a><br><b>🦺&nbsp;AeroHaptix</b>&nbsp;·&nbsp;<i>RA-L&nbsp;2024</i><br><sub>Vibrotactile&nbsp;suit&nbsp;for&nbsp;safer&nbsp;drone&nbsp;teleop</sub></td>
-<td valign="top"><a href="https://thejerrycheng.github.io/haptic_toolkit.html"><img src="assets/vibraforge.jpg" width="300" alt="VibraForge"></a><br><b>📳&nbsp;VibraForge</b>&nbsp;·&nbsp;<i>CHI&nbsp;2025</i><br><sub>Toolkit&nbsp;for&nbsp;spatial&nbsp;vibrotactile&nbsp;feedback</sub></td>
+<td valign="top" width="300"><a href="https://thejerrycheng.github.io/iris.html"><img src="assets/iris.jpg" width="300" alt="IRIS"></a><br><b>🎥&nbsp;IRIS</b><br><i>CRV&nbsp;2026&nbsp;·&nbsp;Oral</i><br><sub>3D‑printed&nbsp;cinema&nbsp;arm,&nbsp;learned&nbsp;camera&nbsp;moves</sub></td>
+<td valign="top" width="300"><a href="https://thejerrycheng.github.io/rwhe_calibration.html"><img src="assets/handeye.jpg" width="300" alt="Certifiable hand-eye calibration"></a><br><b>📐&nbsp;Hand‑eye&nbsp;calibration</b><br><i>IJRR&nbsp;2025</i><br><sub>Certifiably&nbsp;correct&nbsp;robot‑world&nbsp;&&nbsp;hand‑eye</sub></td>
+<td valign="top" width="300"><a href="https://thejerrycheng.github.io/radar_camera.html"><img src="assets/radarcam.jpg" width="300" alt="Radar-camera calibration"></a><br><b>📡&nbsp;Radar&nbsp;↔&nbsp;camera</b><br><i>T‑RO&nbsp;2022</i><br><sub>Target‑free&nbsp;radar‑camera&nbsp;space&nbsp;+&nbsp;time&nbsp;sync</sub></td>
+<td valign="top" width="300"><a href="https://thejerrycheng.github.io/radar_radar.html"><img src="assets/radarradar.jpg" width="300" alt="Radar-radar calibration"></a><br><b>📡&nbsp;Radar&nbsp;↔&nbsp;radar</b><br><i>AIM&nbsp;2023</i><br><sub>Extrinsics&nbsp;from&nbsp;ego‑velocity,&nbsp;no&nbsp;targets</sub></td>
+<td valign="top" width="300"><a href="https://thejerrycheng.github.io/aerohaptix.html"><img src="assets/aerohaptix.jpg" width="300" alt="AeroHaptix"></a><br><b>🦺&nbsp;AeroHaptix</b><br><i>RA‑L&nbsp;2024</i><br><sub>Vibrotactile&nbsp;suit&nbsp;for&nbsp;safer&nbsp;drone&nbsp;teleop</sub></td>
+<td valign="top" width="300"><a href="https://thejerrycheng.github.io/haptic_toolkit.html"><img src="assets/vibraforge.jpg" width="300" alt="VibraForge"></a><br><b>📳&nbsp;VibraForge</b><br><i>CHI&nbsp;2025</i><br><sub>Toolkit&nbsp;for&nbsp;spatial&nbsp;vibrotactile&nbsp;feedback</sub></td>
 </tr>
 </table>
 
